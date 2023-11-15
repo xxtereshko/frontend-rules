@@ -1,0 +1,21 @@
+{
+  "name": "@xxtereshko/prettier-config",
+  "description": "Prettier config for xxtereshko's projects",
+  "license": "MIT",
+  "author": "xxtereshko",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xxtereshko/frontend-rules.git"
+  },
+  "version": "0.0.0",
+  "main": "./config.json",
+  "peerDependencies": {
+    "prettier": "^3"
+  },
+  "engines": {
+    "node": ">= 16.16.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
