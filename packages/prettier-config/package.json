@@ -1,8 +1,19 @@
 {
   "name": "@xxtereshko/prettier-config",
-  "description": "Prettier config for xxtereshko's projects",
+  "description": "Standardized Prettier configuration for collaborative use within a team.",
+  "keywords": [
+    "Prettier",
+    "configuration",
+    "code formatting",
+    "team collaboration",
+    "code style"
+  ],
   "license": "MIT",
-  "author": "xxtereshko",
+  "author": {
+    "email": "hey@tereshko.net",
+    "name": "Maxim Tereshko",
+    "url": "https://tereshko.net"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:xxtereshko/frontend-rules.git"

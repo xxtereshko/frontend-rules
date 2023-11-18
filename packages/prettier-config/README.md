@@ -1,8 +1,9 @@
-This package is our setup for prettier as a shared config
+## 💅 Prettier Shared Configuration
 
-Recommended usage is:
+This package embodies our standardized Prettier configuration, intended for collaborative use within our team.
 
-`.prettierrc.json`
+Recommended Usage:
+Add the following line to your `.prettierrc.json` file:
 
 ```json static
 "@xxtereshko/prettier-config"
