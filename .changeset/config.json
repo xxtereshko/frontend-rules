@@ -3,7 +3,7 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "un-ts/prettier"
+      "repo": "xxtereshko/frontend-rules"
     }
   ],
   "commit": false,
