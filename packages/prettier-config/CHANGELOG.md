@@ -1,5 +1,13 @@
 # @xxtereshko/prettier-config
 
+## 0.0.3
+
+### Patch Changes
+
+- [#4](https://github.com/xxtereshko/frontend-rules/pull/4) [`bf4ec99`](https://github.com/xxtereshko/frontend-rules/commit/bf4ec99636cffae32252927cab1c15395dc27fe7) Thanks [@xxtereshko](https://github.com/xxtereshko)! - chore(prettier-config): Исправлено описание
+
+- [#2](https://github.com/xxtereshko/frontend-rules/pull/2) [`feb2d32`](https://github.com/xxtereshko/frontend-rules/commit/feb2d321b2bdf461e3b76094a00775f2cd90029a) Thanks [@xxtereshko](https://github.com/xxtereshko)! - chore: fixed bracketSpacing
+
 ## 0.0.1
 
 ### Patch Changes
