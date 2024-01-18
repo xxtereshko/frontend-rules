@@ -27,6 +27,7 @@
     "node": ">= 16.16.0"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   }
 }
