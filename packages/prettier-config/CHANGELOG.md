@@ -1,5 +1,11 @@
 # @xxtereshko/prettier-config
 
+## 0.0.4
+
+### Patch Changes
+
+- [#5](https://github.com/xxtereshko/frontend-rules/pull/5) [`86b5176`](https://github.com/xxtereshko/frontend-rules/commit/86b51760119ef03c6ae45b7a2d813a0f0b99f379) Thanks [@xxtereshko](https://github.com/xxtereshko)! - Feat/prettier Добавлен npm Provenance
+
 ## 0.0.3
 
 ### Patch Changes
